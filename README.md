@@ -8,20 +8,19 @@ Updated Tool: megaETH Faucet using Python (with proxy and non-proxy support)
 
 🌐 Dapps Link: MegaETH (https://testnet.megaeth.com/#5)
 
-✔️ Crusty Swap
-✔️ Cap App
-✔️ Bebop
-✔️ Gte Swaps
-✔️ Teko Finance
-✔️ Onchain Gm
-✔️ Xl Meme
-✔️ Omnihub
-✔️ Mintair
-✔️ Easynode
-✔️ Hopnetwork
-✔️ Rainmakr
-
-✔️ Multi-threaded, multi-account support, etc.
+- ✔️ Crusty Swap
+- ✔️ Cap App
+- ✔️ Bebop
+- ✔️ Gte Swaps
+- ✔️ Teko Finance
+- ✔️ Onchain Gm
+- ✔️ Xl Meme
+- ✔️ Omnihub
+- ✔️ Mintair
+- ✔️ Easynode
+- ✔️ Hopnetwork
+- ✔️ Rainmakr
+- ✔️ Multi-threaded, multi-account support, etc.
 
 ===========
 🖥 Instructions: After downloading and extracting the tool, open your terminal
