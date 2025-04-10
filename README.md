@@ -31,10 +31,6 @@ Updated Tool: megaETH Faucet using Python (with proxy and non-proxy support)
 git clone https://github.com/0xDee-Coder/megapwet.git
 cd megapwet
 ```
-- set the ref_code in the .env file
-```bash
-nano .env
-```
 2. Install dependencies
 ```bash
 pip install -r requirements.txt or pip3 install -r requirements.txt
