@@ -20,7 +20,6 @@ Updated Tool: megaETH Faucet using Python (with proxy and non-proxy support)
 - ✔️ Easynode
 - ✔️ Hopnetwork
 - ✔️ Rainmakr
-- ✔️ Multi-threaded, multi-account support, etc.
 
 ===========
 🖥 Instructions: After downloading and extracting the tool, open your terminal
